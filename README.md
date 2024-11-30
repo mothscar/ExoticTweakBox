@@ -1,17 +1,7 @@
 # ExoticTweakBox
 
-🚀 Features
+Welcome
 
-RAM Cleaner: Clears unused memory to speed up your PC.
-Debloat Windows: Removes unnecessary pre-installed apps and services.
-Optimize Services: Tweaks essential Windows services for better performance.
-Cache + Log Cleaner: Clears out junk files like temporary data and logs.
-Custom Regedit Tweaks: Makes powerful registry tweaks to boost your system.
-Network Tweaks: Improves internet speed and stability.
-Power Plan Optimization: Switches to a high-performance power plan to boost performance.
-Animation Speed Tweaks: Reduces unnecessary animation delays for faster UI responses.
-Startup Program Manager: Manage which programs automatically run on startup.
-System Bug Fixes: Resolves common issues that may slow your system down.
 
 🛠 How to Use
 Download the ExoticTweakBox.bat script.
