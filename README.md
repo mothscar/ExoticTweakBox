@@ -32,7 +32,9 @@ If your PC is feeling slow or bloated, ExoticTweakBox is the perfect solution. I
 ---
 
 Admin Privileges: Make sure to always run the script as an Administrator to ensure it has the necessary permissions to tweak system settings.
+
 Backup Your System: It’s a good idea to back up important files and create a system restore point before running any system optimization tools.
+
 Check the Changes: After using the script, you should notice improved performance, such as faster boot times, reduced lag, and smoother overall system operation.
 
 ---
